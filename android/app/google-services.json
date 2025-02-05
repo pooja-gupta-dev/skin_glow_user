@@ -1,0 +1,351 @@
+{
+  "project_info": {
+    "project_number": "88859348373",
+    "firebase_url": "https://wechat-51d16-default-rtdb.firebaseio.com",
+    "project_id": "wechat-51d16",
+    "storage_bucket": "wechat-51d16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:d0b9e42fcd13b5b1a6fa9c",
+        "android_client_info": {
+          "package_name": "com.edugaon.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:4a5e7c4f2f8f4b1ba6fa9c",
+        "android_client_info": {
+          "package_name": "com.edugaonecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:0daf3c28ee2342f1a6fa9c",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:c66a552e99e8a445a6fa9c",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:adc69d5c2dcd2ee2a6fa9c",
+        "android_client_info": {
+          "package_name": "com.example.evogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-at2510ne2ip9stgiajrbkdi1ua8ad4mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evogram",
+            "certificate_hash": "56cb893ed150013fe41bf26a04db9f76aae3755b"
+          }
+        },
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:1cbf9bd1d3f60eb5a6fa9c",
+        "android_client_info": {
+          "package_name": "com.example.sampark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:496fc626ecbe7840a6fa9c",
+        "android_client_info": {
+          "package_name": "com.example.sell_product"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:9f2a282ae6821c6aa6fa9c",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88859348373:android:80dd9927cbd3462ca6fa9c",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88859348373-htkf0nuqvi6163t3nogr6m6n9nphm91c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshRajpurohit.we_chat",
+            "certificate_hash": "56cb893ed150013fe41bf26a04db9f76aae3755b"
+          }
+        },
+        {
+          "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oB_Bdxtgj-eH-nMBQgV_ArLp53hF8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88859348373-68bsu4g8fv7pndmb4p58f731iagud85o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88859348373-9birm6beoiks5p28uvs02vdi5nad74jj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshRajpurohit.weChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
